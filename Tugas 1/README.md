@@ -163,3 +163,5 @@ Kode JavaScript ini menginisialisasi sebuah demo WebGL yang menggambar sebuah se
 
 ## Hasil
 Berikut ini adalah hasil dari program sederhana yang telah saya buat :
+
+![hasil](https://github.com/grafkom-a-2024/tugas-individu-grafkom-a-rumaishafrn/blob/main/Tugas%201/Hasil.png)
