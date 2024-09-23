@@ -1,7 +1,7 @@
 # GRAFIKA KOMPUTER (B) - TUGAS 3
 
-### Nama : Rumaisha Afrina
-### NRP  : 5025221146
+Nama  : Rumaisha Afrina
+NRP   : 5025221146
 
 ## 3D Object
 ![3dobj](https://github.com/grafkom-a-2024/tugas-individu-grafkom-a-rumaishafrn/blob/main/Tugas%203/3D%20Object/image.png)
